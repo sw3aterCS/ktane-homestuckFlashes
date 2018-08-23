@@ -1,0 +1,300 @@
+LIST OF SYMBOLS:
+00. JOHN
+01. ROSE
+02. DAVE
+03. JADE
+04. JANE
+05. ROXY
+06. DIRK
+07. JAKE
+
+08. GUARDIAN
+09. JASPERS
+10. LIL CAL
+11. BECQUEREL
+12. LIL HAL
+
+13. MUSIC
+
+14. STRIFE
+15. METEOR
+16. SBURB
+17. SKAIA
+18. PROSPIT
+19. DERSE
+
+20. BUNNY
+
+21. TRICKSTER
+
+22. WAYWARD VAGABOND
+23. PEREGRINE MENDICANT
+24. JACK NOIR
+25. SNOWMAN
+26. THE FELT
+27. SCRATCH
+
+28. ARADIA
+29. TAVROS
+30. SOLLUX
+31. KARKAT
+32. NEPETA
+33. KANAYA
+34. TEREZI
+35. VRISKA
+36. EQUIUS
+37. GAMZEE
+38. ERIDAN
+39. FEFERI
+
+40. MEENAH
+
+41. CALLIOPE
+42. CALIBORN
+43. LORD ENGLISH
+
+44. MSPA READER
+
+45. SBAHJ
+
+
+HOMESTUCK FLASHES:
+1. John: Play haunting piano refrain.
+  JOHN  MUSIC  MUSIC
+
+2. John: Enter/STRIFE!
+  JOHN  GUARDIAN(DAD)  STRIFE
+
+3. Rose: Play a haunting refrain on the violin.
+  ROSE  MUSIC  MUSIC
+
+4. John: Take bite of apple.
+  JOHN  METEOR  SBURB
+
+5. ==> (Page 338)
+  DAVE  MUSIC  MUSIC
+
+6. Rose: Youth roll right out the front door.
+  ROSE  GUARDIAN(MOM)  STRIFE
+
+7. Dave: Ascend to the highest point of the building.
+  DAVE  JADE  WAYWARD VAGABOND
+
+8. WV: Ascend.
+  WAYWARD VAGABOND  SBURB  WAYWARD VAGABOND
+
+9. Jade: Play a hauntingly relaxing bassline.
+  JADE  MUSIC  MUSIC
+
+10. Dave: STRIFE.
+  DAVE  GUARDIAN(BRO)  STRIFE
+
+11. Dave: Abscond
+  DAVE  GUARDIAN(BRO)  SBAHJ
+
+12. Strife!!! (Page 918)
+  JADE  GUARDIAN(GRANDPA)  STRIFE
+
+13. Rose: Fast forward to now.
+  ROSE  JASPERS  JASPERS
+
+14. Jade: Retrieve package.
+  JADE  BECQUEREL  STRIFE
+
+15. Jade: Dream up extra arms and play advanced bass solo.
+  JADE  MUSIC  PROSPIT
+
+16. Dave: Strife! (Page 1070)
+  DAVE  GUARDIAN(BRO)  LIL CAL
+
+17. Enter. (Page 1149)
+  ROSE  METEOR  SBURB
+
+18. [I] ==> (Page 1267)
+  JACK NOIR  SNOWMAN  THE FELT
+
+19. ACT 4 ==>
+  JOHN  SBURB  PEREGRINE MENDICANT
+
+20. ==> (Page 1407)
+  ROSE  SBURB  SBURB
+
+21. Dave: Accelerate.
+  DAVE  SBURB  SBURB
+
+22. Jack: Ascend.
+  JACK NOIR  DERSE  ROSE
+
+23. Rose and Dave: Shut up and jam.
+  ROSE  DAVE  MUSIC
+
+24. WV?: Rise up.
+  SKAIA  WAYWARD VAGABOND  JACK NOIR
+
+25. John: Reunite with your loving wife and daughter.
+  JOHN  BUNNY  KARKAT
+
+26. Descend.
+  DAVE  JACK NOIR  JADE
+
+27. Make her pay.
+  VRISKA  TEREZI  ARADIA
+
+28. ACT 5 ACT 2 ==>
+  KARKAT  JOHN  SBURB
+
+29. Jade: Wake up.
+  JADE  FEFERI  DERSE
+
+30. Jade: Enter.
+  JADE  BECQUEREL  JACK NOIR
+
+31. JOHN. RISE UP.
+  JOHN  WAYWARD VAGABOND  SKAIA
+
+32. Wake.
+  ARADIA  VRISKA  TAVROS
+
+33. 3x Showdown Combo.
+  GAMZEE  ERIDAN  VRISKA
+
+34. ==> (Page 3696)
+  JOHN  ROSE  JACK NOIR
+
+35. Seer: Ascend
+  TEREZI  VRISKA  STRIFE
+
+36. Flip.
+  TEREZI  VRISKA  GAMZEE
+
+37. Attempt rare and highly dangerous 5x SHOWDOWN COMBO.
+  GAMZEE  KARKAT  STRIFE
+
+38. Cascade. (Part 1 of 4)
+  JOHN  JADE  JACK NOIR // WAYWARD VAGABOND  PEREGRINE MENDICANT  JACK NOIR
+
+39. Cascade. (Part 2 of 4)
+  ROSE  DAVE  BUNNY // JACK NOIR  SNOWMAN  STRIFE
+
+40. Cascade. (Part 3 of 4)
+  JADE  BECQUEREL  SKAIA // JADE  PEREGRINE MENDICANT  SCRATCH
+
+41. Cascade. (Part 4 of 4)
+  SCRATCH  SOLLUX  METEOR // ROSE  DAVE  PEREGRINE MENDICANT
+
+42. Begin intermission 2.
+  SCRATCH  LORD ENGLISH  THE FELT
+
+43. ACT 6
+  SBURB  JANE  CALLIOPE
+
+44. [A6I1] Karkat: Mental breakdown.
+  KARKAT  KARKAT  KARKAT
+
+45. END OF ACT 6 INTERMISSION 1
+  PEREGRINE MENDICANT  JANE  PROSPIT
+
+46. Roxy: Sleepwalk
+  ROXY  DERSE  ROSE
+
+47. Prince of Heart: Rise up.
+  JAKE  DIRK  DERSE
+
+48. Jane: Enter.
+  JANE  METEOR  SBURB
+
+49. ACT 6 ACT 3
+  JANE  SBURB  BUNNY
+
+50. Jane: Proceed.
+  JANE  BUNNY  LIL HAL
+
+51. Terry: Fast forward to Liv.
+  BUNNY  JAKE  JADE
+
+52. Dirk: Synchronize.
+  DIRK  MEENAH  ROXY
+
+53. Dirk: Unite.
+  DIRK  JANE  JAKE
+
+54. Caliborn: Enter.
+  CALLIOPE  CALIBORN  LORD ENGLISH
+
+55. ACT 6 INTERMISSION 3
+  MEENAH  SBURB  SBURB
+
+56. [A6I3] MINISTRIFE!!!
+  MEENAH  VRISKA  CALLIOPE
+
+57. ACT 6 ACT 4
+  JAKE  ROXY  DIRK
+
+58. ACT 6 ACT 5
+  JAKE  SOLLUX  ERIDAN
+
+59. Ride. (Page 5655)
+  EQUIUS  LIL HAL  DIRK
+
+60. Jane: Engage.
+  JANE  GAMZEE  TRICKSTER
+
+61. [A6I5] ==> (Page 6231)
+  JOHN  SOLLUX  ERIDAN
+
+62. ACT 6 ACT 6
+  CALIBORN  MUSIC  MUSIC
+
+63. ACT 6 ACT 6 INTERMISSION 1
+  JADE  JANE  CALIBORN
+
+64. GAME OVER.
+  CALIBORN  STRIFE  STRIFE
+
+65. [A6A6I4] ====> (Page 7098)
+  JOHN  MUSIC  SBURB
+
+66. [A6A6I4] ====> (Page 7101)
+  JOHN  ROXY  NEPETA
+
+67. ACT 6 ACT 6 ACT 5
+  CALIBORN  CALIBORN  MUSIC
+
+68. MSPA Reader: Mental breakdown.
+  MSPA READER  CALIBORN  LIL CAL
+
+69. ACT 6 ACT 6 INTERMISSION 5
+  VRISKA  METEOR  METEOR
+
+70. [A6A6I5] ====> (Page 7921) <-- SBAHJ to represent dave/dirk
+  EQUIUS  NEPETA  SBAHJ
+
+71. Terezi: Remem8er
+  TEREZI  VRISKA  LORD ENGLISH
+
+72. Collide. (Part 1 of 4)
+  STRIFE  KARKAT  LORD ENGLISH
+
+73. Collide. (Part 2 of 4)
+  [! MULTIPLE LISTINGS !]: JOHN  ROSE  KANAYA
+                           JAKE  THE FELT  STRIFE
+                           JANE  GUARDIAN(NANNA)  JASPERS
+                           DAVE  DIRK  TEREZI
+74. Collide. (Part 3 of 4)
+  LORD ENGLISH  MEENAH  STRIFE
+
+75. Collide. (Part 4 of 4)
+  [! MULTIPLE LISTINGS !]: SKAIA  JANE  STRIFE
+                           JADE  JACK NOIR  PEREGRINE MENDICANT
+                           GUARDIAN(DAD)  JAKE  THE FELT
+                           DAVE  DIRK  JACK NOIR
+                           ROXY  DERSE  STRIFE
+
+76. ACT 7
+  [! MULTIPLE LISTINGS !]: SKAIA  SBURB  SBURB
+                           CALLIOPE  SBURB  LORD ENGLISH
+                           VRISKA  SBURB  LORD ENGLISH
+                           CALIBORN  SBURB  STRIFE
+
+77. Credits.
+  SBURB  SBURB  MSPA READER2, 
