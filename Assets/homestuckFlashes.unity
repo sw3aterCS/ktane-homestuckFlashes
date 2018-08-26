@@ -149,6 +149,12 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 114753352567449082, guid: 0ba3409af6af51248ad1d18c1e53a26e,
+        type: 2}
+      propertyPath: Settings
+      value: '{"totalStageNum" : 3, "note": "Total number of stages may be between
+        1-20, inclusive." }'
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0ba3409af6af51248ad1d18c1e53a26e, type: 2}
   m_IsPrefabParent: 0

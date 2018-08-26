@@ -7,9 +7,15 @@ using Newtonsoft.Json;
 
 public class script : MonoBehaviour {
 
+	public class ModSettingsJSON {
+		public int totalStageNum;
+		public string note;
+	}
+
 	public KMAudio Audio;
 	public KMBombModule Module;
 	public KMBombInfo Info;
+	public KMModSettings modSettings;
 	public KMSelectable LeftBtn, Submit, RightBtn;
 	public TextMesh StageInd, Screen;
 	public MeshRenderer Symbol1, Symbol2, Symbol3;
@@ -116,16 +122,17 @@ public class script : MonoBehaviour {
 	private static int _moduleIdCounter = 1;
 	private int _moduleId = 0;
 	private bool _isSolved = false, _lightsOn = false;
-	private int stageNum = 1, randomFlashChoice = 0, totalStageNum = 3;
+	private int stageNum = 1, randomFlashChoice = 0;
 	private int[] stageSongArray = new int[7] {0, 0, 0, 0, 0, 0, 0};
+	public int totalStageNum;
 	//currentSSAIndex tracks the index of the song displayed on the module in stageSongArray (SSA)
 	private int currentSSAIndex = 0;
-
 
 	// Use this for initialization
 	void Start () {
 		_moduleId = _moduleIdCounter++;
 		Module.OnActivate += Activate;
+		totalStageNum = findTotalStageNum ();
 		//set all symbols to john (material 0) momentarily before generating stage
 		Symbol1.materials = new[] {Symbols[0]};
 		Symbol2.materials = new[] {Symbols[0]};
@@ -279,6 +286,25 @@ public class script : MonoBehaviour {
 		} else {
 			Debug.LogFormat ("[Homestuck Flashes #{0}] The inputted answer is incorrect.", _moduleId);
 			Module.HandleStrike ();
+		}
+	}
+
+	//function for getting total number of stages; default is 3
+	int findTotalStageNum() {
+		try {
+			ModSettingsJSON settings = JsonConvert.DeserializeObject<ModSettingsJSON>(modSettings.Settings);
+			if (settings != null) {
+				if (settings.totalStageNum < 1)
+					return 1;
+				else if (settings.totalStageNum > 20)
+					return 20;
+				else return settings.totalStageNum;
+			} else {
+				return 3;
+			}
+		} catch (JsonReaderException e) {
+			Debug.LogFormat("[Homestuck Flashes #{0}] JSON reading failed with error {1}; using default value of 3.", _moduleId, e.Message);
+			return 3;
 		}
 	}
 }
